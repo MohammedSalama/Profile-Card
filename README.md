@@ -1,5 +1,5 @@
 # Profile-Card
-card like portofulio
+card like portofolio
 ## Language Used:
 Html 
 Css
